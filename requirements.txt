@@ -1,0 +1,5 @@
+streamlit
+pytse-client
+pandas
+numpy
+plotly
